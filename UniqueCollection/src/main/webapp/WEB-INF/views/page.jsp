@@ -241,12 +241,15 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
+                    <p style='text-align:left;'>Copyright (c) 2018 <a href='https://kamalidea.blogspot.com/'>Kamalidea.com</a> All Right Reseved</p>
+                    <div class='ty-copy-container row' style='font-size:1px; opacity:0;'>
                     <p>Copyright &copy; Company 2013 </a>
                     </p>
                 </div>
             </div>
         </footer>
 
+    </div>
     </div>
     <!-- /.container -->
 
